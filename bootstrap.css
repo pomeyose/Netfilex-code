@@ -1,0 +1,44 @@
+*{
+    
+    font-family: sans-serif;
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+  
+    background-image: linear-gradient(rgba(0,0,0,.6)),rgba(0,0,0,.6),url(image/netflex\ image.jpg);
+    background-size: cover;
+    background-position: 75%;
+    height: 90vh;
+    width: 100%;
+    padding: 12px 8%;
+    position: relative;
+}
+body{
+    background-color: #000;
+    color:#fff
+    
+    }
+    
+.logo{
+    width: 150px;
+    cursor: pointer;
+}
+
+
+.green-btn{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    margin: 0px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.header-1{
+    font-size: 24px;
+    justify-content: center;
+}
+.btn{
+    margin-top: 10px;
+}
